@@ -1,0 +1,15 @@
+/*
+Theme Name: Glamping Theme
+Theme URI: http://wordpress.org/themes/twentytwelve
+Author: Sara Girke
+Author URI: http://wordpress.org/
+Description: Projekt DT197G
+Version: 1.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, green, white
+Text Domain: miun.se
+*/
+
+/* Import av style-sheet */
+@import url("css/main.css");
